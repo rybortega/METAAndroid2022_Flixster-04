@@ -8,21 +8,21 @@ Time spent: **17** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] (6pts) **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
-- [X] (6pts) **Parse through JSON data and implement a RecyclerView to display all movies**
-- [X] (6pts) **Use Glide to load and display movie poster images**
+- [ ] (6pts) **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
+- [ ] (6pts) **Parse through JSON data and implement a RecyclerView to display all movies**
+- [ ] (6pts) **Use Glide to load and display movie poster images**
 
 The following **stretch** features are implemented:
 
-- [X] Improve and customize the user interface through styling and coloring
-- [X] Implement orientation responsivity
+- [ ] Improve and customize the user interface through styling and coloring
+- [ ] Implement orientation responsivity
   - App should neatly arrange data in both landscape and portrait mode
-- [X] Implement Glide to display placeholder graphics during loading
+- [ ] Implement Glide to display placeholder graphics during loading
   - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
 
 The following **additional** features are implemented:
 
-* [x] Show an emoticon for each movie, where it will be sad :( if the rating was bad, :/ if was soso, and happy :) if it has a good rating
+* [ ] Show an emoticon for each movie, where it will be sad :( if the rating was bad, :/ if was soso, and happy :) if it has a good rating
 
 ## Video Walkthrough
 
